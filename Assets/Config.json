@@ -1,0 +1,8 @@
+{
+    "Cleaner": {
+        "SaveDirectory": "./Assets/Deps/Saves",
+        "BackupDirectory": "./Assets/Deps/Backup",
+
+        "CleanOnRun": true
+    }
+}
